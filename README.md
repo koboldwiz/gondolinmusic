@@ -1,2 +1,2 @@
 # gondolinmusic
-Sound software written in scsh (http://scsh.net)
+Sound software written in scsh scheme (http://scsh.net)
