@@ -1,3 +1,4 @@
-sound utilities written in scheme for scsh (http://scsh.net)
+Sound utilities written in scheme for scsh (http://scsh.net)
 
-
+There is also a small GUI system using scx (which is an X11 extension for scsh
+scheme.) Run file startxclient.scm for it.
